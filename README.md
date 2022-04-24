@@ -1,0 +1,2 @@
+# sqlite
+Python Sqlite manual
